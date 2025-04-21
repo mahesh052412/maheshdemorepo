@@ -1,0 +1,9 @@
+{
+	"name": "adfmahedemoforgit",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a5be19b4-32ca-4b5a-8be2-a2a4f094d5ea",
+		"tenantId": "36f6ae07-7dcb-4eac-a156-bc3a31d3ebf7"
+	}
+}
