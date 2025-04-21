@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "adfmahedemoforgit"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
